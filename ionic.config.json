@@ -1,0 +1,7 @@
+{
+  "name": "ZebraApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
